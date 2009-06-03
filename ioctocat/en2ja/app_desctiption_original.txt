@@ -1,0 +1,23 @@
+
+---
+iOctocat is a GitHub app for the iPhone and iPod Touch.
+
+The application features:
+* Feeds: News Feed and My Activity
+* My Repositories: Private, Public and Watched
+* Repository: Issues, Recent Commits, Commit Details, Network/Forks and Watching
+* User Profile with Repositories and Following
+* Search for Users and Repositories
+---
+
+--- 追加すべき項目
+WHAT'S NEW IN THIS VERSION
+* List of watched repositories
+* Improved performace
+
+LANGUAGES:
+English
+
+REQUIREMENTS:
+Compatible with iPhone and iPod touch
+Requires iPhone 2.0 or later
