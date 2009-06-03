@@ -1,0 +1,20 @@
+
+i808 Drum Machine
+
+i808 Drum Machine brings vintage hip hop drum machines to the iPhone in a fun, easy to use app. Make beats with 11 timeless drum machine instruments used in today's rap, hip hop, R&B, and techno/electronica songs. Change patterns, add instruments, and configure options on the fly as you listen to your beat. Amateur beat makers will love the fun, dynamic live-play interface. Professionals will appreciate the exclusive cd quality (16 bit 44.1 kHz) samples taken from an original vintage analog drum machine in Blackout Labs' studios.
+
+Other drum and beat sequencer apps rely on inaccurate, easy to implement technology that results in stuttering beats or a lagging tempo. i808 is built with extreme accuracy making it a reliable drum sequencer and an excellent metronome.
+
+Instructions:
+Each pattern is divided into 16 beats. To play an instrument on a beat, select that instrument and press the beat buttons you desire that instrument to play on. Press play to hear your beat. Edit your patterns, beats, and instrument options in real time while playing or while stopped.
+Hold down a pattern button for 3 seconds to clear it.
+Use the accent to add dynamics, making some beats louder or softer than others.
+To change the tempo, press stop if playing, click the tempo box, and type in the tempo you want.
+Your patterns are automatically saved when you close i808.
+
+Tips:
+-Patterns change as you lift your finger. To change on a precise beat, hold the pattern button a few beats before you want to change and then release on the beat you want.
+-For the best sound quality, use the iPhone or iPod volume control. If you desire further volume increase, use the "Total Gain" slider in the options screen.
+-We listen to our users. If there are features you'd like to see added or if you experience any problems, send an email to: feedback (at) blackoutlabs (dot) com
+
+i808 samples are authorized for use in both commercial and non-commercial music compositions only. Audio samples may not be distributed in sample libraries or any sample-based hardware/software.
