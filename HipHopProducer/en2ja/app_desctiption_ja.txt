@@ -3,17 +3,18 @@
 Hip Hop Producer（ヒップホッププロデューサー）
 
 - AS SEEN ON BET.COM!
+- BET.COMで見れます。
 - v1.2では130以上のサンプルを含みます。
 - 注意：「Hip Hop Producer」は外部スピーカーではなく、ヘッドフォンで最も良く機能します。
 
-（今では）誰でもプロ級のヒップホップミュージックを作れるようになりました。
-たとえミュージカルインスツルメントを演奏したり、曲を書いた経験がなくても、「Hip Hop Producr」で簡単に素晴らしいオリジナルのヒップホップ音楽が作れます。
+誰でもプロ級のヒップホップミュージックを作れるようになりました。たとえ演奏したり、曲を書いた経験がなくても、「Hip Hop Producer」で簡単に素晴らしいオリジナルのヒップホップミュージックが作れます。
 好きなビートとメロディーを130以上の専用サンプルから選択し、それらを16のビートパッドに割り当てます。
-1回だけの演奏か、繰り返し演奏するか、またはビートパッドをタップ中だけ演奏するかをビートパッドに設定します。
+1回だけの演奏か、繰り返し演奏するか、またはビートパッドをタップ中だけ演奏するかをビートパッドに設定します。（※1）
 そしてオリジナルソングを作るために、それぞれのビートパッドをタップしていきます。
 「Hip Hop Producer」は他のミュージック作成アプリよりも２倍以上の機能を詰め込んでいます：
 
-- 現在のトップチャートのラップやヒップホップ、R&Bのシングルに触発されたプロが制作した130以上のサンプル
+主な特徴：
+- トップチャートのラップやヒップホップ、R&Bのシングルに触発されたプロが制作した130以上のサンプル
 - All samples are royalty free for your music compositions* meaning you can create your song and it's yours to sell, give away, play at a party, or do however you please.
 - 全てのサンプルはロイヤリティフリーであなたの作曲に利用できます。
 それは、あなたが制作した曲を販売したり、誰かにあげたり、パーティ等で演奏したり、どんなことでも利用できることを意味します。
@@ -23,8 +24,8 @@ Hip Hop Producer（ヒップホッププロデューサー）
 - マルチタッチが可能です。複数のビートパッドを同時にタップできます。
 - 3種類のビートパッド機能：繰り返し演奏、1回のみの演奏、タップ中のみ演奏
 - ビートパッドごとに音量調整が可能
-- 友人にあなたが「Hip Hop Producer for iPhone」を使用しているのを知らせるには「Facebook Connect Portal」にログインします。
-- 完全な2オクターブのアナログシンセサイザのサンプル。minisynthをロードし、全てのビートパッドを「タップ中のみ演奏」に変更すると「Hip Hop Producer」はキーボードになります。
+- 「Facebook Connect Portal」にログインすると、友人にあなたが「Hip Hop Producer for iPhone」を使用していることを知らせることができます。
+- 完全な2オクターブのアナログシンセサイザのサンプル。「minisynth」をロードして全てのビートパッドを「タップ中のみ演奏」に変更すると「Hip Hop Producer」はキーボードになります。
 - それぞれのシンバル、ハイハット、スネア、バスドラム、クラップ、コンガそしてタムのパターンサンプルは、ビート作成に最大の融通性を提供します。全てのビートパッドを「タップ中のみ演奏」に変更すると「Hip Hop Producer」はドラムセットにもなります。（maximum versatilityの意味を再検討する）
 versatility：多才、多芸多才の；融通のきく
 - 「Hip Hop Producer」を閉じると、設定内容は自動的に保存されます。
@@ -56,6 +57,7 @@ The sound can be stopped before it ends by tapping the beat pad again.
 *Audio samples are authorized for use in both commercial and non-commercial music compositions only. Audio samples may not be distributed in sample libraries or any sample-based hardware/software.
 
 - オーディオサンプルは商用、非商用に関わらず、コンポーズのみ許可されており、サンプルデータを利用した、いかなる再配布を禁止します。
+
 
 
 ---
