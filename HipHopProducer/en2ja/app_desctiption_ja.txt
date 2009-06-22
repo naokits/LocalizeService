@@ -3,7 +3,7 @@
 Hip Hop Producer（ヒップホッププロデューサー）
 
 - AS SEEN ON BET.COM!
-- BET.COMで見れます。
+※）- BET.COMで見れます。
 - v1.2では130以上のサンプルが利用できます。
 - 注意：「Hip Hop Producer」は外部スピーカーではなく、ヘッドフォンでご利用される事をお薦めします。
 
@@ -13,7 +13,7 @@ Hip Hop Producer（ヒップホッププロデューサー）
 そしてオリジナルソングを作るために、それぞれのビートパッドをタップしていきます。
 「Hip Hop Producer」は他のミュージック作成アプリよりも２倍以上の機能を詰め込んでいます：
 
-主な特徴：
+●主な特徴：
 - トップチャートのラップやヒップホップ、R&Bのシングルに触発されたプロが制作した130以上のサンプル
 - All samples are royalty free for your music compositions* meaning you can create your song and it's yours to sell, give away, play at a party, or do however you please.
 ※）- 全てのサンプルはロイヤリティフリーであなたの作曲に利用できます。
@@ -31,7 +31,7 @@ versatility：多才、多芸多才の；融通のきく
 - 「Hip Hop Producer」を閉じると、設定内容は自動的に保存されます。
 
 
-操作方法：
+●操作方法：
 - 「Hip Hop Producer」のビートパッドにはサンプルがプリロードされているので、すぐに音楽を作り始められます。
 - 設定を変更するには「MODE」ボタンタップして「EDIT」モードに入ってください。
 - そして変更したいビートパッドを選択してください。
@@ -48,7 +48,7 @@ The sound can be stopped before it ends by tapping the beat pad again.
 「タップ中のみ演奏」ビートパッドはパッドに指をおいている間演奏を繰り返します。そして指を離した時演奏を止めます。
 
 
-その他：
+●その他：
 - 私たちはユーザの声を大切にしています。
 　もし追加して欲しい機能ある場合や問題を発見された場合は、次のメールアドレスにご連絡ください。
 　feedback@blackoutlabs.com
@@ -59,13 +59,16 @@ The sound can be stopped before it ends by tapping the beat pad again.
 
 
 ●訳者からのお知らせ：
+- 「Hip Hop Producer」はアプリケーション自体を日本語化しておりません。よって主要な機能を英語を「」で囲っている場合には実際に使用できるボタンやメニュー等を表します。日本語を「」で囲っている場合はほとんどの場合、機能についての名称を表現しています。
+
 - 訳者は音楽関係の翻訳に不慣れなため、適切でない用語をや表現を用いているかもしれません。何かお気づきの点があれば、お手間をおかけしますが、以下のアドレスにご一報いただけますと幸いです。
 hiphopproducer@iphoneworld.jp
 
-また、訳者による簡単なレビューは次のサイトをご覧ください。
+- アプリケーションに関するご質問やサポートについては、誠に申し訳ありませんが、Blackout Labs社にお問い合わせください。訳者はサポートに関わる一切の依頼をBlackout Labs社より受けておりません。ご了承くださいますよう、お願いします。
+
+- 本アプリケーションの訳者による簡単なレビューは次のサイトをご覧ください。
 http://iphoneworld.jp/localize/apps/hiphopproducer/
 
-- 「Hip Hop Producer」はアプリケーション自体を日本語化しておりません。よって主要な機能を英語を「」で囲っている場合には実際に使用できるボタンやメニュー等を表します。日本語を「」で囲っている場合はほとんどの場合、機能についての名称を表現しています。
 
 
 
