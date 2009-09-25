@@ -1,42 +1,126 @@
-"TapHereToStart" = "Tap here to start";
+/**/
+"TapHereToStart" = "ここをタップするとスタートします";
+
+/**/
 "removeitfromthedock" = "Do you want to remove it from the dock?";
+
+/**/
 "No" = "No";
+
+/**/
 "Yes" = "Yes";
+
+/**/
 "heytakealookatthislink" = "Hey! Take look at this link:";
+
+/**/
 "sentfrom" = "Sent from";
+
+/**/
 "tapheretogetit" = "Tap here to get it";
+
+/**/
 "iwanttosharealink" = "I want to share a link with you";
+
+/**/
 "heytakealookatthisimage" = "Hey! Take look at this image:";
+
+/**/
 "iwanttoshareimage" = "I want to share an image with you";
+
+/**/
 "saveimage" = "Save image";
+
+/**/
 "openinnewwindow" = "Open in New Window";
+
+/**/
 "sendimage" = "Send image";
+
+/**/
 "cancel" = "Cancel";
+
+/**/
 "openlink" = "Open Link";
+
+/**/
 "sendlink" = "Send link";
-"edit" = "Edit";
+
+/**/
+"edit" = "編集";
+
+/**/
 "done" = "Done";
-"close" = "Close";
-"save" = "Save";
-"bookmarks" = "Bookmarks";
+
+/**/
+"close" = "閉じる";
+
+/**/
+"save" = "保存";
+
+/**/
+"bookmarks" = "ブックマーク";
+
+/**/
 "nointernetconnection" = "No internet connection";
-"addtobookmarks" = "Add to Bookmarks";
-"addtodock" = "Add to Dock";
+
+/**/
+"addtobookmarks" = "ブックマークに追加";
+
+/**/
+"addtodock" = "ドックに追加";
+
+/**/
 "URL" = "URL";
-"title" = "Title";
+
+/**/
+"title" = "タイトル";
+
+/**/
 "moreapps" = "More apps";
-"help" = "Help";
+
+/**/
+"help" = "ヘルプ";
+
+/**/
 "changewallpaper" = "Change wallpaper";
-"resetwallpaper" = "Reset wallpaper";
+
+/**/
+"resetwallpaper" = "壁紙をリセット";
+
+/**/
 "doyouwanttocloseallwindows" = "Do you want to close ALL windows?";
+
+/**/
 "buy" = "BUY";
+
+/**/
 "buyme" = "BUY ME";
+
+/**/
 "ok" = "OK";
+
+/**/
 "help1" = "Move: Tap the top bar of the window and drag it.";
+
+/**/
 "help2" = "Fullscreen: Double tap the top bar of the window.";
+
+/**/
 "help3" = "Screen controls: Tap the bottom bar from the main screen to add new window, exit fullscreen.";
+
+/**/
 "help4" = "Dock: Add icons to the dock by tapping the circle in window properties. Tap an icon from the dock and drag it up to remove it.";
-"help5" = "New window";
-"help6" = "Exit/Enter fullscreen.";
+
+/**/
+"help5" = "新規ウインドウ";
+
+/**/
+"help6" = "フルスクリーンモード切替";
+
+/**/
 "help7" = "Show window properties, URL, Bookmarks.";
-"help8" = "Tap outside the toolbars to return to the desktop.";
+
+/**/
+"help8" = "ツールバーの外側をタップするとデスクトップに戻ります。";
+
