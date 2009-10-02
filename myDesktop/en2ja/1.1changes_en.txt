@@ -1,0 +1,19 @@
+v1.1 changes
+--------------------
+- Change wallpaper from your photos library.
+- Dock with icons to add sites/apps.
+- Tap and Hold over links and images.
+- Open link in new window
+- Send link
+- Save image
+- Open image in new window
+- Send image
+- Faster startup.
+- Bookmarks issue fixed.
+- Bigger bottom bar.
+- Improvements.
+- Saves windows on exit so you can reopen app to show last windows.
+- Open YouTube links with YouTube app.
+- Open AppStore links with AppStore app.
+- Help message on the bottom bar.
+- Close all windows button.

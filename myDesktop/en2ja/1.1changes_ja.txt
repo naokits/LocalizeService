@@ -1,0 +1,37 @@
+v1.1での変更点
+--------------------
+- Change wallpaper from your photos library.
+- フォトライブラリから壁紙を変更できます
+- Dock with icons to add sites/apps.
+- 
+- Tap and Hold over links and images.
+
+- Open link in new window
+- 新規ウインドウでリンクを開きます
+- Send link
+- リンクの送信
+- Save image
+- 画像の保存
+- Open image in new window
+- 新規ウインドウで画像を表示できます
+- Send image
+- 画像の送信
+- Faster startup.
+- 起動がより速くなりました。
+- Bookmarks issue fixed.
+- ブックマークの発行が安定しました
+- Bigger bottom bar.
+- ボトムバーを大きくしました。
+
+- Improvements.
+- 次の点を改良しました。
+- Saves windows on exit so you can reopen app to show last windows.
+- 「ウインドウを保存」で終了した場合、次回の起動で保存したウインドウを表示します
+- Open YouTube links with YouTube app.
+- YouTube appでYouTubeのリンクを開きます
+- Open AppStore links with AppStore app.
+- AppStore appでAppStoreのリンクを開きます
+- Help message on the bottom bar.
+- ボトムバーにヘルプメッセージを表示します。
+- Close all windows button.
+- 全てのウインドウを閉じるボタン
