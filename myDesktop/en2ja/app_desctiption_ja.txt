@@ -1,0 +1,56 @@
+Turn your iPhone/iPod Touch into a Laptop.
+
+With myDesktop you will be able to open multiple web browser windows.
+myDesktopで複数のWEBブラウザウインドウが使用できるようになります。
+Each window is a web browser like Safari.
+それぞれのウインドウはSafariのようなWEBブラウザです。
+
+You can have all your favourites web sites and web applications opened at the same time like in a laptop: Google, Yahoo!, eBuddy Free Messenger (MSN,AIM,ICQ), Facebook, Twitter, Gmail, etc.
+ラップトップのようにお好みのWEBサイトやWEBアプリケーションを同時に開く事ができます。
+
+FEATURES:
+主な機能：
+  - Multiple windows.
+  - 複数のウインドウ
+  - Fullscreen web browser.
+  - フルスクリーンWEBブラウザ
+  - Bookmarks.
+  - ブックマーク
+  - Window resizing.
+  - ウインドウのサイズ変更
+  - Drag/Move windows.
+  - ウインドウのドラッグ／移動
+  - Maximize any window to use fullscreen.
+  - 全てのウインドウをフルスクリーンで表示
+  - Nice wallpaper.
+  - 魅力的な壁紙
+  - Private web browsing. 
+  - プライベートWEBブラウジング
+  - Change wallpaper from your photos library.
+  - フォトライブラリの画像で壁紙を変更可能
+  - Dock with icons to add sites/apps.
+  - アイコン付きのドックでWEBサイトやWEBアプリを追加
+  - Tap and Hold over links and images.
+  - タップしてリンクと画像
+
+  - Open link in new window.
+  - 新規ウインドウでリンクを開きます
+  - Send link.
+  - リンクの送信
+  - Save image.
+  - 画像を保存
+  - Open image in new window.
+  - 新規ウインドウで画像を開きます
+  - Send image.
+  - 画像の送信
+  - Saves windows on exit so you can reopen app to show last windows.
+  - アプリ終了時にウインドウを保存しますので、再度アプリを起動すると最後に表示した状態でウインドウを表示します。
+  - Close all windows button.
+  - 「全てのウインドウを閉じる」ボタン
+
+
+Contact us from our site with your suggestions and desired features.
+more info at: http://www.voon.com.ar
+
+私たちのサイトからご提案やご要望をお聞かせください。
+詳細情報は次のサイトをご覧ください。http://www.voon.com.ar
