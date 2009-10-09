@@ -3,9 +3,9 @@ v1.1での変更点
 - Change wallpaper from your photos library.
 - フォトライブラリから壁紙を変更できます
 - Dock with icons to add sites/apps.
-- 
+- ドックでサイト／アプリを追加できます。
 - Tap and Hold over links and images.
-
+- タップしリンクとイメージ上にかぶせます。
 - Open link in new window
 - 新規ウインドウでリンクを開きます
 - Send link
@@ -30,7 +30,7 @@ v1.1での変更点
 - Open YouTube links with YouTube app.
 - YouTube appでYouTubeのリンクを開きます
 - Open AppStore links with AppStore app.
-- AppStore appでAppStoreのリンクを開きます
+- AppStoreアプリでAppStoreのリンクを開きます
 - Help message on the bottom bar.
 - ボトムバーにヘルプメッセージを表示します。
 - Close all windows button.
