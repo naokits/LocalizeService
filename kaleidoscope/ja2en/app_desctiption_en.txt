@@ -1,0 +1,28 @@
+iPhoneのカメラを使って万華鏡を作りました。
+I made a kaleidoscope using the iPhone's camera.
+
+これはカメラアプリですので、当然の事ながら写真を撮る事もできます。
+Because this is a camera application, it can of course take pictures. 
+
+撮影した写真は万華鏡の様な不思議な模様になります。
+The picture taken can then be turned into a mystical kaleidoscopic picture.
+
+それよりもiPhoneを動かしながら画面を見てください、不思議な動きを見る事がでます。
+Not only that, while you're moving the picture be sure to look at the screen.
+You can see some amazing movements going on while you do so.
+
+気に入った模様ができた時は、画面のどこでもタップする事でその時の模様をカメラロールに保存する事ができます。
+When you like what you see, tap anywhere on the screen and it will save that image to your camera roll.
+
+
+●注意
+Please Note:
+- 撮影した画像をＰＣの壁紙にする際には「タイル」表示にしてください。
+- To use the picture as wallpaper on your PC, be sure to choose 'Title' mode when setting it as your desktop wallpaper.
+- 画像保存中にはインジケータが表示されますので、消えるまで終了しないでください。
+- While saving pictures an indicator showing the save progress will be shown.  Do not end the application until it goes away or else it will not finish saving.
+- iPhone3Gでは少々実行速度が遅いのでばらばらな動きになってしまいます。
+- iPhone 3G users will experience some rather slow and jerky movements using kaleidoscope.
+
+
+
