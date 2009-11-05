@@ -9,8 +9,13 @@ Time-lapse.app is a time-lapse motion picture application.
 Have you ever seen the growth of a plant or movements of flux and reflux of the tides just in a matter of seconds?
 
 あのように「長い時間をかけて起きる現象を短い時間で再生できるように撮影する手法」を微速度撮影と呼びます。
+Those video were captured using this technology.
+This Technology that captures phenomenon which takes long time to happen and enables to replay it in short period of time, is called time-lapse motion picture.
+
 
 Time-lapse.appでは次のような事を簡単に行う事が可能です。
+With Time-lapse.app, you can do the following:
+
 ・フルHDサイズのコマ撮り動画の作成。
 ・指定された時間ごとの自動シャッター。
 ・再生速度の自由な設定。
