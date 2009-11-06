@@ -20,13 +20,14 @@ With Time-lapse.app, you can do the following:
 * Shooting Time-lapse movie in full high definition quality,
 
 ・指定された時間ごとの自動シャッター。
-* Self-timer that works in set times,
+* Self-timer that works in set times.
 
 ・再生速度の自由な設定。
 * Automatic shutter release at configured intervals
 
 ・撮影中断後に、自動的に撮影を再開。
-* Resume shooting after breaks automatically,
+* Resume shooting after breaks automatically.
+  Pause and automatically resume shooting
 
 ・コマごとのフォトアルバムへのエクスポート。
 * Export pictures to the photo album on flame by flame basis,
@@ -48,5 +49,5 @@ Notice
 * You can't play the video written by current version of Time-lapse.app on your iPhone
 ・10分を超える動画はYoutubeの制限によりYoutubeへアップロードする事ができません。
 * You can't upload the video file which over 10 minutes to Youtube because of their own restriction.
-・iPhone3G
-* iPhone3G
+・iPhone3GSをご利用の場合、被写体の焦点が近い場合はオートフォーカスによりコマごとのピントがずれる可能性があります。焦点が近い被写体を撮影する場合は固定焦点のiPhone3Gのご利用をご検討下さい。
+* In the case of using iPhone3GS, when the focus of the object is close, every frame may become out of focus if the auto focus function is used. In such case, please consider using the fixed focus function of iPhone3G.
