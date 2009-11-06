@@ -17,18 +17,36 @@ Time-lapse.appでは次のような事を簡単に行う事が可能です。
 With Time-lapse.app, you can do the following:
 
 ・フルHDサイズのコマ撮り動画の作成。
+* Shooting Time-lapse movie in full high definition quality,
+
 ・指定された時間ごとの自動シャッター。
+* Self-timer that works in set times,
+
 ・再生速度の自由な設定。
+* Automatic shutter release at configured intervals
+
 ・撮影中断後に、自動的に撮影を再開。
+* Resume shooting after breaks automatically,
+
 ・コマごとのフォトアルバムへのエクスポート。
+* Export pictures to the photo album on flame by flame basis,
+
 ・作成した動画のPCへのダウンロード。
+* Download video to your PC.
+
 ・Youtubeへの動画のアップロード。
+* Upload video to Youtube.
 
 iPhone3G、iPhone3GSの両方をサポートしています。
+Supports both of iPhone3G, iPhone3GS.
 カメラの搭載されていないiPod touchはサポートしていません。
+Does not support iPod Touch that has no camera.
 
 ご注意
+Notice
 ・現バージョンのTime-lapse.appで作成された動画を、iPhoneで直接再生する事はできません。
+* You can't play the video written by current version of Time-lapse.app on your iPhone
 ・10分を超える動画はYoutubeの制限によりYoutubeへアップロードする事ができません。
+* You can't upload the video file which over 10 minutes to Youtube because of their own restriction.
 ・iPhone3G
-
+* iPhone3G
