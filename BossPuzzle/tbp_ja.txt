@@ -1,0 +1,69 @@
+### Japanese ###
+/* Save */
+"Save" = "";
+
+/* Score */
+"Score" = "";
+
+/* Moves in contex of amount of player's step in game */
+"Moves" = "";
+
+/* Time */
+"Time" = "";
+
+/* Challenge */
+"Challenge" = "";
+
+/* Solved Puzzle */
+"Solved Puzzle" = "";
+
+/* Repeat position */
+"Repeat position" = "";
+
+/* Take recent Challenge */
+"Take recent Challenge" = "";
+
+/* Retake Challenge */
+"Retake Challenge" = "";
+
+/* Send Challenge */
+"Send Challenge" = "";
+
+/* Challanges collisions */
+"Challenges collisions" = "";
+
+/* Alert about Challenge */
+"You have a Challenge from %@ with %@: %i. Just take it or start new game." = "";
+
+/* Phrase of possible declining challenges */
+"You try to save game results for leaderboard with random positions. If you have challenges at the same time and your result beats challenge's one, position collisions can be. For saving this game some current challenges will be DECLINED." = "";
+
+/* 'your' in context of string 'your score:' or 'your time:'*/
+"your" = "";
+
+/* Alert */
+"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "" 
+
+/* Local push */
+"Your best result was beaten last week" = ""
+
+/* Local push */
+"Your best result was beaten last two weeks" = ""
+
+/* Local push */
+"Your best result was beaten last three weeks" = ""
+
+/* Local push */
+"Your best result was beaten last month" = ""
+
+/* Local push */
+"Your best result was beaten last two months" = ""
+
+/* Local push */
+"Your best result was beaten last three months" = ""
+
+/* Description */
+"Changed system of Challenges. If you get some one, you will start the same position as your challenger played. It is more honestly" = ""
+
+/* Name */
+"Fifteens sliding puzzle" = ""
