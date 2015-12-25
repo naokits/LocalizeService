@@ -1,9 +1,9 @@
 ### Japanese ###
 /* Save */
-"Save" = "";
+"Save" = "保存";
 
 /* Score */
-"Score" = "";
+"Score" = "スコア";
 
 /* Moves in contex of amount of player's step in game */
 "Moves" = "";
@@ -12,22 +12,22 @@
 "Time" = "";
 
 /* Challenge */
-"Challenge" = "";
+"Challenge" = "チャレンジ";
 
 /* Solved Puzzle */
-"Solved Puzzle" = "";
+"Solved Puzzle" = "攻略済みのパズル";
 
 /* Repeat position */
 "Repeat position" = "";
 
 /* Take recent Challenge */
-"Take recent Challenge" = "";
+"Take recent Challenge" = "現在の挑戦状";
 
 /* Retake Challenge */
-"Retake Challenge" = "";
+"Retake Challenge" = "やり直す";
 
 /* Send Challenge */
-"Send Challenge" = "";
+"Send Challenge" = "挑戦状を送る";
 
 /* Challanges collisions */
 "Challenges collisions" = "";
@@ -39,13 +39,13 @@
 "You try to save game results for leaderboard with random positions. If you have challenges at the same time and your result beats challenge's one, position collisions can be. For saving this game some current challenges will be DECLINED." = "";
 
 /* 'your' in context of string 'your score:' or 'your time:'*/
-"your" = "";
+"your" = "あなたの";
 
 /* Alert */
-"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "" 
+"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = ""
 
 /* Local push */
-"Your best result was beaten last week" = ""
+"Your best result was beaten last week" = "あなたのベストスコアは先週追い越されました"
 
 /* Local push */
 "Your best result was beaten last two weeks" = ""
