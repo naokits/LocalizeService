@@ -6,10 +6,10 @@
 "Score" = "スコア";
 
 /* Moves in contex of amount of player's step in game */
-"Moves" = "";
+"Moves" = "移動";
 
 /* Time */
-"Time" = "";
+"Time" = "時間";
 
 /* Challenge */
 "Challenge" = "チャレンジ";
@@ -21,16 +21,16 @@
 "Repeat position" = "";
 
 /* Take recent Challenge */
-"Take recent Challenge" = "現在の挑戦状";
+"Take recent Challenge" = "最近の挑戦";
 
 /* Retake Challenge */
-"Retake Challenge" = "やり直す";
+"Retake Challenge" = "再挑戦";
 
 /* Send Challenge */
 "Send Challenge" = "挑戦状を送る";
 
 /* Challanges collisions */
-"Challenges collisions" = "";
+"Challenges collisions" = "挑戦する";
 
 /* Alert about Challenge */
 "You have a Challenge from %@ with %@: %i. Just take it or start new game." = "";
@@ -42,28 +42,28 @@
 "your" = "あなたの";
 
 /* Alert */
-"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = ""
+"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "勝利しました。しかし、ランキングに重複があったため無効になります。"
 
 /* Local push */
 "Your best result was beaten last week" = "あなたのベストスコアは先週追い越されました"
 
 /* Local push */
-"Your best result was beaten last two weeks" = ""
+"Your best result was beaten last two weeks" = "あなたのベストスコアは2週間前に追い越されました"
 
 /* Local push */
-"Your best result was beaten last three weeks" = ""
+"Your best result was beaten last three weeks" = "あなたのベストスコアは3週間前に追い越されました"
 
 /* Local push */
-"Your best result was beaten last month" = ""
+"Your best result was beaten last month" = "あなたのベストスコアは1ヶ月前に追い越されました"
 
 /* Local push */
-"Your best result was beaten last two months" = ""
+"Your best result was beaten last two months" = "あなたのベストスコアは2ヶ月前に追い越されました"
 
 /* Local push */
-"Your best result was beaten last three months" = ""
+"Your best result was beaten last three months" = "あなたのベストスコアは3ヶ月前に追い越されました"
 
 /* Description */
-"Changed system of Challenges. If you get some one, you will start the same position as your challenger played. It is more honestly" = ""
+"Changed system of Challenges. If you get some one, you will start the same position as your challenger played. It is more honestly" = "挑戦者のシステムを変更しました。"
 
 /* Name */
-"Fifteens sliding puzzle" = ""
+"Fifteens sliding puzzle" = "15パズル"
