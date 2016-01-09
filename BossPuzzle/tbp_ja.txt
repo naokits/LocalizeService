@@ -42,7 +42,7 @@
 "your" = "あなたの";
 
 /* Alert */
-"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "挑戦に勝利します。しかし、ランキングの順位に衝突があったため無効になりした。" // need reconfirm
+"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "。挑戦に勝ちました。しかし、誰かに位置の衝突があったため無効になりした。" // need reconfirm
 
 /* Local push */
 "Your best result was beaten last week" = "あなたのベストスコアは先週追い越されました"
@@ -63,7 +63,7 @@
 "Your best result was beaten last three months" = "あなたのベストスコアは3ヶ月前に追い越されました"
 
 /* Description */
-"Changed system of Challenges. If you get some one, you will start the same position as your challenger played. It is more honestly" = "挑戦者のシステムを変更しました。" // need reconfirm
+"Changed system of Challenges. If you get some one, you will start the same position as your challenger played. It is more honestly" = "挑戦のシステムが変更されました。挑戦者と同じ場所から開始されます。" // need reconfirm
 
 /* Name */
 "Fifteens sliding puzzle" = "15パズル"
