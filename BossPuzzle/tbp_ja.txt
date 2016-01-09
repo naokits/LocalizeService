@@ -12,13 +12,13 @@
 "Time" = "時間";
 
 /* Challenge */
-"Challenge" = "チャレンジ";
+"Challenge" = "挑戦";
 
 /* Solved Puzzle */
 "Solved Puzzle" = "攻略済みのパズル";
 
 /* Repeat position */
-"Repeat position" = "";
+"Repeat position" = "繰り返し位置";
 
 /* Take recent Challenge */
 "Take recent Challenge" = "最近の挑戦";
@@ -30,10 +30,10 @@
 "Send Challenge" = "挑戦状を送る";
 
 /* Challanges collisions */
-"Challenges collisions" = "挑戦する";
+"Challenges collisions" = "挑戦の衝突";
 
 /* Alert about Challenge */
-"You have a Challenge from %@ with %@: %i. Just take it or start new game." = "";
+"You have a Challenge from %@ with %@: %i. Just take it or start new game." = "あなたは %@（%@: %i）から挑戦を受けています。対戦するか新しいゲームを始めます。";
 
 /* Phrase of possible declining challenges */
 "You try to save game results for leaderboard with random positions. If you have challenges at the same time and your result beats challenge's one, position collisions can be. For saving this game some current challenges will be DECLINED." = "";
@@ -42,7 +42,7 @@
 "your" = "あなたの";
 
 /* Alert */
-"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "勝利しました。しかし、ランキングに重複があったため無効になります。"
+"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "挑戦に勝利します。しかし、ランキングの順位に衝突があったため無効になりした。"
 
 /* Local push */
 "Your best result was beaten last week" = "あなたのベストスコアは先週追い越されました"
