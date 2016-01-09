@@ -30,19 +30,19 @@
 "Send Challenge" = "挑戦状を送る";
 
 /* Challanges collisions */
-"Challenges collisions" = "挑戦の衝突";
+"Challenges collisions" = "挑戦の衝突"; // need reconfirm
 
 /* Alert about Challenge */
 "You have a Challenge from %@ with %@: %i. Just take it or start new game." = "あなたは %@（%@: %i）から挑戦を受けています。対戦するか新しいゲームを始めます。";
 
 /* Phrase of possible declining challenges */
-"You try to save game results for leaderboard with random positions. If you have challenges at the same time and your result beats challenge's one, position collisions can be. For saving this game some current challenges will be DECLINED." = "";
+"You try to save game results for leaderboard with random positions. If you have challenges at the same time and your result beats challenge's one, position collisions can be. For saving this game some current challenges will be DECLINED." = "ランダムな位置でゲームの結果を保存してみてください。同時に複数の挑戦者がいて、ゲームの結果が挑戦者の誰かに勝利している場合、位置の衝突が起こります。それらの挑戦者はゲームの保存が拒否されます。"; // need reconfirm
 
 /* 'your' in context of string 'your score:' or 'your time:'*/
 "your" = "あなたの";
 
 /* Alert */
-"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "挑戦に勝利します。しかし、ランキングの順位に衝突があったため無効になりした。"
+"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "挑戦に勝利します。しかし、ランキングの順位に衝突があったため無効になりした。" // need reconfirm
 
 /* Local push */
 "Your best result was beaten last week" = "あなたのベストスコアは先週追い越されました"
@@ -63,7 +63,7 @@
 "Your best result was beaten last three months" = "あなたのベストスコアは3ヶ月前に追い越されました"
 
 /* Description */
-"Changed system of Challenges. If you get some one, you will start the same position as your challenger played. It is more honestly" = "挑戦者のシステムを変更しました。"
+"Changed system of Challenges. If you get some one, you will start the same position as your challenger played. It is more honestly" = "挑戦者のシステムを変更しました。" // need reconfirm
 
 /* Name */
 "Fifteens sliding puzzle" = "15パズル"
