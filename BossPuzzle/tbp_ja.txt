@@ -42,7 +42,7 @@
 "your" = "あなたの";
 
 /* Alert */
-"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "。挑戦に勝ちました。しかし、誰かに位置の衝突があったため無効になりした。" // need reconfirm
+"You beat Challenge, however some one had position collisions for this leaderboard and were DECLINED." = "。挑戦に勝ちました。しかし、このリーダーボードの誰かに位置の衝突があったため無効になりした。" // need reconfirm
 
 /* Local push */
 "Your best result was beaten last week" = "あなたのベストスコアは先週追い越されました"
